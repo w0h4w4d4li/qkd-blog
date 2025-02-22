@@ -1,3 +1,9 @@
 site_name: Quantum Key Distribution
+site_description: Exploring Quantum Key Distribution (QKD) and its impact on quantum information science, cryptography, and secure communication
+site_url: https://q-kd.ir
+
 theme:
   name: material
+plugins:
+  - search
+  - blog
