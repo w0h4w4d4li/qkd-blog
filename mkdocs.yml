@@ -5,7 +5,9 @@ site_url: https://q-kd.ir
 theme:
   name: material
   features:
-    - navigation.indexes
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
 plugins:
   - search
   - blog
