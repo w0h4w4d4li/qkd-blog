@@ -7,3 +7,10 @@ theme:
 plugins:
   - search
   - blog
+
+nav:
+  - Home: index.md
+  - Install: install.md
+  - Usage: usage.md
+  - Blog:
+     - blog/index.md
