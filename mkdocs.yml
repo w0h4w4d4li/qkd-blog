@@ -23,5 +23,4 @@ nav:
   - Implementation:
       - BB84 Protocol: impl/bb84.md
       - E91 Protocol: impl/e91.md
-  - Challenges & Future: future.md
   - About: about.md
