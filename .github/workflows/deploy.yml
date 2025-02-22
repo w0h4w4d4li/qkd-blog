@@ -21,4 +21,6 @@ jobs:
         run: pip install mkdocs mkdocs-material
 
       - name: Deploy MkDocs
-        run: mkdocs gh-deploy --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: mkdocs gh-deploy --force --remote-branch gh-pages
