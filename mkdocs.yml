@@ -13,7 +13,6 @@ plugins:
   - blog
 
 nav:
-  - Home: index.md
   - Introduction:
       - What is QKD?: intro/qkd.md
       - History of QKD: intro/history.md
