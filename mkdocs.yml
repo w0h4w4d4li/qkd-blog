@@ -21,5 +21,6 @@ nav:
       - Entanglement: quantum/entanglement.md
   - Implementation:
       - BB84 Protocol: impl/bb84.md
+      - B92 Protocol: impl/b92.md
       - E91 Protocol: impl/e91.md
   - About: about.md
