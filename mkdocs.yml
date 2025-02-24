@@ -13,9 +13,6 @@ plugins:
   - blog
 
 nav:  
-  - Papers:
-      - Micius quantum experiments in space: papers/mqeis.md
-      - Quantum Secret Sharing with Grover Algorithm: papers/qshg.md
   - Introduction:
       - What is QKD?: intro/qkd.md
       - History of QKD: intro/history.md
@@ -26,4 +23,6 @@ nav:
       - BB84 Protocol: impl/bb84.md
       - B92 Protocol: impl/b92.md
       - E91 Protocol: impl/e91.md
-  - About: about.md
+  - Papers:
+      - Micius quantum experiments in space: papers/mqeis.md
+      - Quantum Secret Sharing with Grover Algorithm: papers/qshg.md
