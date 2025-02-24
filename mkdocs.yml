@@ -12,10 +12,10 @@ plugins:
   - search
   - blog
 
-nav:
+nav:  
   - Papers:
-      - Micius quantum experiments in space
-      - Quantum Secret Sharing with Grover’s Algorithm
+      - Micius quantum experiments in space: papers/mqeis.md
+      - Quantum Secret Sharing with Grover Algorithm: papers/qshg.md
   - Introduction:
       - What is QKD?: intro/qkd.md
       - History of QKD: intro/history.md
