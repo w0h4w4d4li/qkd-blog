@@ -13,6 +13,9 @@ plugins:
   - blog
 
 nav:
+  - Papers:
+      - Micius quantum experiments in space
+      - Quantum Secret Sharing with Grover’s Algorithm
   - Introduction:
       - What is QKD?: intro/qkd.md
       - History of QKD: intro/history.md
