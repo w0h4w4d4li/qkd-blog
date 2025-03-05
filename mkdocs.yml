@@ -15,7 +15,6 @@ plugins:
 nav:  
   - Introduction:
       - What is QKD?: intro/qkd.md
-      - History of QKD: intro/history.md
   - Quantum Concepts:
       - Quantum Mechanics: quantum/mechanics.md
       - Entanglement: quantum/entanglement.md
