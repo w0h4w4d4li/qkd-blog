@@ -1,2 +1,2 @@
 # Home
-
+Welcome to my blog, where I explore the fascinating world of Quantum Key Distribution (QKD)! Here, I break down the principles, challenges, and latest advancements in QKD—bridging the gap between quantum mechanics and secure communication. Whether you're a researcher, student, or just curious about quantum cryptography, you'll find insights, tutorials, and discussions on the cutting edge of quantum security. Join me in uncovering the future of cybersecurity powered by quantum technology!
