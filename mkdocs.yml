@@ -14,7 +14,7 @@ plugins:
 
 nav:  
   - Introduction:
-      - What is QKD?: intro/qkd.md
+      - Quantum Cryptography: intro/qkd.md
   - Quantum Concepts:
       - Quantum Mechanics: quantum/mechanics.md
       - Entanglement: quantum/entanglement.md
@@ -25,3 +25,4 @@ nav:
   - Papers:
       - Micius quantum experiments in space: papers/mqeis.md
       - Quantum Secret Sharing with Grover Algorithm: papers/qshg.md
+      - Satellite-to-ground quantum key distribution: papers/stqqkd.md

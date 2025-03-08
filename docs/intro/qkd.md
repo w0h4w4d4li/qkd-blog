@@ -1,0 +1,5 @@
+# Quantum cryptography
+
+Quantum cryptography is a method that uses quantum mechanics rather than simple numerical algorithms to generate a secret key. This is known as quantum key distribution, or QKD. To implement QKD, two communications channels are used between Alice and Bob. This includes an ordinary public channel, which is just an ordinary classical communications link—it could be the Internet, a cell phone,
+or your home telephone. Encrypted messages are sent over this line. In addition a second piece of the QKD puzzle is used—a quantum communications channel over which the quantum key is distributed. In practice, this is done using individual photons in different polarization states. Quantum mechanics relies on a fundamental
+principle of quantum theory—that measurement disturbs a quantum state. To learn something about a key encoded as a quantum state, a measurement has to be made. So if Eve taps into the line, she has to make measurements—disturbing the system in such a way that Alice and Bob can detect her presence.
