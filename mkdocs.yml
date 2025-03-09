@@ -23,6 +23,5 @@ nav:
       - B92 Protocol: impl/b92.md
       - E91 Protocol: impl/e91.md
   - Papers:
-      - Micius quantum experiments in space: papers/mqeis.md
-      - Quantum Secret Sharing with Grover Algorithm: papers/qshg.md
-      - Satellite-to-ground quantum key distribution: papers/stqqkd.md
+      - Micius quantum experiments in space: https://arxiv.org/abs/2208.10236
+      - Satellite-to-ground quantum key distribution: https://arxiv.org/pdf/1707.00542
